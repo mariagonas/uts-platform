@@ -1,0 +1,10 @@
+   10  history | tail -n 10 | tac > riwayat_perintah.txt
+    9  ls
+    8  echo "Tahap 1 teknologi platform"
+    7  whoami
+    6  docker --version
+    5  ls -la ..
+    4  pwd
+    3  cd ~/uts_platform/app
+    2  mkdir -p ~/uts_platform/{app,config,logs,screenshots}
+    1  clear
